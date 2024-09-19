@@ -31,9 +31,14 @@ function displayRandomQuestion() {
     const answerText = Object.values(selectedQuestion)[1];
 
     // Set the inner HTML of the question and answer elements
-    question.innerHTML = questionText;
-    answer.innerHTML = answerText;
+    // question.innerHTML = questionText;
+    // answer.innerHTML = answerText;
+
+    // Set the inner HTML of the question and answer elements with <h4> tags
+    question.innerHTML = `<h5>${questionText}</h5>`;
+    answer.innerHTML = `<h5>${answerText}</h5>`;
     answer.style.display = 'none'; // Ensure the answer is hidden initially
+    
 }
 
 function displayAnswer(){
