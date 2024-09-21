@@ -26,5 +26,42 @@
   {
   "question": "Was unterschied zwischen Compiler und Interpreter?",
   "answer": "<table><tr><th></th><th>Interpreter</th><th>Compiler</th></tr><tr><td>Macht</td><td>Der Computer führt den Code in Echtzeit aus, bearbeitet Anweisungen Schritt für Schritt. Fehler müssen vor dem Fortfahren behoben werden.</td><td>Übersetzt den Programmcode in Maschinencode oder Bytecode, bevor er ausgeführt wird. Fehler werden während des Kompilierens gemeldet und müssen behoben werden. C, C++ und Java.</td></tr><tr><td>Vorteile</td><td>Schnelles Testen der Programme.</td><td>Potenzielle Optimierung des Codes - schnellere Ausführung. - Schnelles Finden von Fehlern.</td></tr><tr><td>Nachteile</td><td>Weniger performant in der Ausführung - Mehr Speicherplatz wird benötigt.</td><td>Längere Vorlaufzeit aufgrund der Code-Übersetzung und Mehr Zeit benötigt.</td></tr></table>"
+},
+{
+  "question": "Was ist eine Bibliothek in der Programmierung?",
+  "answer": "Eine Bibliothek ist eine Sammlung von bereits geschriebenem Code, der Benutzern zur Verfügung steht, um Zeit zu sparen.<br><strong> Vorteile:</strong><br> sind Zeitersparnis, Wiederverwendbarkeit, Zuverlässigkeit und Einfachheit.<br><strong> Nachteile:</strong><br> sind Abhängigkeiten, Lernkurve und eingeschränkte Kontrolle."
+} ,
+{
+  "question": "Was sind REST-APIs(Representational State Transfer Application Programming Interface) and How to communicate with a server using REST APIs?",
+  "answer": "REST-APIs sind weit verbreitet im Internet für die Kommunikation zwischen Systemen mit Merkmalen wie loser Kopplung und Caching.<br> <i>Beispiele</i> sind die APIs von Google Maps, PayPal, Stripe und GitHub<br><strong> Vorteile:</strong> sind Einfachheit, Konsistenz, Flexibilität, Skalierbarkeit, Zuverlässigkeit und Interoperabilität.<br> communicate zusammen durch: <br> Create => POST.<br>Read => GET.<br>Update => PATCH/PUT.<br>Delete => DELETE."
+},
+{
+  "question": "Was ist der Unterschied zwischen Datenschutz und Datensicherheit?",
+  "answer": "Datenschutz schützt persönliche Informationen und die Gesetze einzuhalten.<br> Datensicherheit schützt alle Daten  vor Verlust oder Beschädigung."
+},
+{
+  "question": "Welche betroffenenrechte gibt es  laut DSGVO?",
+  "answer": "Recht auf information, auf Auskunft, auf Berichtigung, auf Löschung, auf Einschränkungen der Verarbeitung, auf Datenübertragbarkeit, auf Widerspruch."
+},
+{
+  "question": "Das Datenschutzrecht basiert auf dem Verbotsprinzip mit Erlaubnisvorbehalt.<br> Erklären dieses Grundprinzip",
+  "answer": "Persönliche Daten können nicht ohne persönliche Einwilligung erhoben werden"
+},
+{
+  "question": "Prinzip der zweckbindung,  dem Prinzip der Datenminimierung und Speicherbegrenzung im Datenschutz.",
+  "answer": "<strong> Zweckbindung: </strong><br>Daten dürfen nur zu einem bestimmten Zweck erhoben und nicht für andere Zwecke verarbeitet werden, und nicht für andere sachen benutzen.<br> <strong>Datenminimierung: </strong><br>Es dürfen nur die notwendigen Daten erhoben und verarbeitet werden.<br><strong>Speicherbegrenzung: </strong><br>Personenbezogene Daten dürfen nur so lange wichtig sind "
+},
+{
+  "question": "Erläutern Sie den Grundsatz der Transparenz und der Richtigkeit im Datenschutz.",
+  "answer": " Transparenz <br>Bezieht sich darauf, dass Organisationen jederzeit offen und klar darüber informieren müssen. <br> Das Prinzip der Richtigkeit bedeutet, dass personenbezogene Daten korrekt sein sollten."
+},
+{
+  "question": "Welche besonders sensiblen Daten sind besonders betroffenen Personen gemäß der Datenschutz-Grundverordnung (DSGVO) definiert?",
+  "answer": "die folgende Informationen enthalten:<br> Rassische oder ethnische Herkunft <br> Politische Meinungen <br> Religiöse oder philosophische Überzeugungen <br> Gewerkschaftszugehörigkeit<br>  Genetische Daten <br> Biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person <br> Gesundheitsdaten <br> Daten zum Sexualleben oder der sexuellen Orientierung "
+},
+{
+  "question": "",
+  "answer": " "
 }
 ]
+
