@@ -60,8 +60,45 @@
   "answer": "die folgende Informationen enthalten:<br> Rassische oder ethnische Herkunft <br> Politische Meinungen <br> Religiöse oder philosophische Überzeugungen <br> Gewerkschaftszugehörigkeit<br>  Genetische Daten <br> Biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person <br> Gesundheitsdaten <br> Daten zum Sexualleben oder der sexuellen Orientierung "
 },
 {
-  "question": "",
-  "answer": " "
+  "question": "Beschreib begriffe : Transaction, Begin Transaction, commit, und Rollback",
+  "answer": " - <strong>Transaction </strong> werden die Programmschritte in einer Transaktion entweder vollständig und fehlerfrei oder gar nicht ausgeführt.<br><strong>BEGIN TRANSACTION </strong>Startet eine Transaktion<br><strong>COMMIT </strong>beendet eine Transaktion und führt die Befehle endgültig aus.<br><strong>ROLLBACK </strong>Beendet eine Transaktion und setzt alle ausgeführten Änderungen "
+},
+{
+  "question": "hybride Verschlüsselungsverfahren ",
+  "answer": " hybride Verschlüsselungsverfahren vereint die Vorteile von symmetrischen und asymmetrischen Verschlüsselungsverfahren. Nachricht wird mit symmetrischen verschlüsst . key wird mit asymmetrisch verschlüsst und sendet an Empfänger und das macht die Prozess schneller. "
+},
+{
+  "question": "symmetrischen Verschlüsselungsverfahren ",
+  "answer": "symmetrischen Verschlüsselung arbeitet mit einem key. Key muss für Absender und Empfänger bekannt.<br> Vorteile: funktionert schneller.<br>Nachteile: die Übergabe ist schwierig."
+},
+{
+  "question": "asymmetrischen Verschlüsselungsverfahren ",
+  "answer": "asymmetrischen Verschlüsselung arbeitet mit privat key und public key. Nachrichten werden mit dem Public Key verschlüsselt der Private Key dient zum Entschlüsseln von achrichten <br>Vorteil: löst das Problem der Schlüsselübergabe. <br>Nachteil: sind erheblich langsamer als die symmetrischen Verschlüsselungsverfahren "
+},
+{
+  "question": "funktionale Anforderungen und nicht funktionale Anforderungen",
+  "answer": "funktionale beschreiben was ein System tun soll.<br>nichtfunktionale beschreiben wie gut das System seine Aufgaben ausführen soll.<br> die Aspekte von nichtfunktionale sind Leistung, zuverlässlichkeit, sicherheit, und andere Qualitätsmerkmale"
+},
+{
+  "question": "IT-Infrastrukturen Schwachstellen",
+  "answer": "-Veraltete Software und Hardware: Ältere Systeme erhalten oft keine Sicherheitsupdates mehr.<br>-Schwache Passwörter: Einfache oder wiederverwendete Passwörter können leicht geknackt werden.<br>-Fehlende Sicherheitsrichtlinien.<br>-Ungepatchte Schwachstellen<br>-Mangelnde Netzwerksegmentierung"
+},
+{
+  "question": "automatischen Kompilierung ",
+  "answer": "-Source Control Management (SCM).<br>Automatische Kompilierung.<br>Automatisierte Tests<br>Automatisierte Bereitstellung<br>Monitoring und Feedback"
+},
+{
+  "question": "generische Klasse ",
+  "answer": "ist ein Konzept in der oop, das es erlaubt eine Klasse zu definieren.<br>Der Hauptvorteil von generischen Klassen besteht darin, dass sie code-Wiederverwendung und Typsicherheit ermöglichen. "
+},
+{
+  "question": "Anweisungsüberdeckung ",
+  "answer": "Um Anweisungsüberdeckung zu erreichen, muss durch die Auswahl der Testfälle sichergestellt werden, dass jede Anweisung mindestens 1-mal ausgeführt wird "
+}
+,
+{
+  "question": "interface und abstrakt ",
+  "answer": "interface mit impliementierung ----->. abstrackt mit vererbung ______> "
 }
 ]
 
